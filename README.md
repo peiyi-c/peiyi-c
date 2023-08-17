@@ -1,6 +1,8 @@
 ### Hi there! 👋
 
+
 > It all started with curiosity. 
+
 
 <p>
   <samp>
@@ -37,4 +39,11 @@
 ![Asana](https://img.shields.io/badge/asana%20-%23F06A6A?style=for-the-badge&logo=Asana&logoColor=white)
 
 ---
+<!---### Github Stats
+
+[![My GitHub Stats](https://github-readme-stats.vercel.app/api/?username=peiyi-c&count_private=true&theme=tokyonight&showicons=true)]
+
+[![My GitHub Language Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=peiyi-c&langs_count=5&theme=tokyonight)]
+
+--->
 *Lastest edit: 17 Aug 2023*
