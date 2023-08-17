@@ -48,5 +48,7 @@
 
 [![My GitHub Language Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=peiyi-c&langs_count=5&theme=tokyonight)]
 
+https://github.com/Ileriayo/markdown-badges
+https://simpleicons.org/
 --->
 *Lastest edit: 17 Aug 2023*
