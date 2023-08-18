@@ -7,7 +7,7 @@
 <p>
   <samp>
     I'm Pei-Yi! <br>
-    Based in Germany.<br>
+   
   </samp>
 </p>
 
