@@ -1,22 +1,19 @@
-### Hi there! 👋
+### Hey! 👋
 
 
 > It all started with curiosity. 
-
-
 <p>
-  <samp>
-    I'm Pei-Yi! <br>
-   
-  </samp>
+   <samp>
+    I'm Pei-Yi! 
+   </samp>
 </p>
-
+  
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/peiyichena)
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:peiyichena@gmail.com) 
 
  
 ---
-### My Languages and Tools 
+### What's In My Bag? 👜
 
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
@@ -51,4 +48,4 @@
 https://github.com/Ileriayo/markdown-badges
 https://simpleicons.org/
 --->
-*Lastest edit: 17 Aug 2023*
+*Lastest edit: 18 Aug 2023*
