@@ -1,17 +1,7 @@
 ### Hi Internet people! 👋
 
 > It all started with curiosity.
-> 
-<p>
-   <samp>
-    I'm Pei-Yi! 
-   </samp>
-</p>
-  
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/peiyichena)
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:peiyichena@gmail.com) 
 
- 
 ---
 ### My Skill Set 🦓
 
@@ -41,4 +31,4 @@
 -->
 
 
-*Last Edit on 20 Oct 2023*
+*Last Edit on 17 Nov. 2023*
