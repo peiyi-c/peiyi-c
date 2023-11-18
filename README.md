@@ -1,6 +1,6 @@
-### Hi Internet people! 👋
+### Hello Internet people! 👋
 
-> It all started with curiosity.
+> It all started with curiosity!
 
 ---
 ### My Skill Set 🦓
