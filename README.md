@@ -1,6 +1,6 @@
 ### Hello Internet people! 👋
 
-> starting point is curiosity
+> starting point is curiosity  ||  原点は好奇心　¶¶
 
 My Portfolio Website 1.0 👉  [Find some recent projects here.](https://peiyi-c.github.io/pch-portfolio/#projects)
 
