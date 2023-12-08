@@ -1,6 +1,6 @@
 ### Hello Internet people! 👋
 
-> Everything starts with why.
+> starting point is curiosity
 
 My Portfolio Website 1.0 👉  [Find some recent projects here.](https://peiyi-c.github.io/pch-portfolio/#projects)
 
