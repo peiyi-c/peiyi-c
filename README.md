@@ -8,6 +8,7 @@ Portfolio Website 1.0 👉  [Find some recent projects here.](https://peiyi-c.gi
 ### Tech Stack 🦓
 
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
+![PHP](https://img.shields.io/badge/php-%234F5B93.svg?style=for-the-badge&logo=php&logoColor=white)
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
 ![Bootstrap](https://img.shields.io/badge/bootstrap-%23563D7C.svg?style=for-the-badge&logo=bootstrap&logoColor=white)
 ![SASS](https://img.shields.io/badge/SASS-%23CC6699.svg?style=for-the-badge&logo=SASS&logoColor=white)
