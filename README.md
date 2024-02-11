@@ -1,7 +1,7 @@
 ### Hello Internet people! 👋
-
+<!--
 > 【out of curiosity】  •  原点は好奇心！　¶¶
-
+-->
 Portfolio Website 1.0 *ଘ(੭*ˊᵕˋ)੭* ੈ✩‧₊˚ [ My recent projects ](https://peiyi-c.github.io/pch-portfolio/#projects) 
 
 ---
