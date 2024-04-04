@@ -2,7 +2,7 @@
 <!--
 > 【out of curiosity】  •  原点は好奇心！　¶¶
 -->
-Portfolio Website version 2024 *ଘ(੭*ˊᵕˋ)੭* ੈ✩‧₊˚ [ My  projects ](https://portfolio-ss24.vercel.app/projects) 
+Please click here [ My portfolio version 2024 *ଘ(੭*ˊᵕˋ)੭* ੈ✩‧₊˚  ](https://portfolio-ss24.vercel.app/projects) 
 
 ---
 ### Tech Stack 🦓
@@ -23,11 +23,6 @@ Portfolio Website version 2024 *ଘ(੭*ˊᵕˋ)੭* ੈ✩‧₊˚ [ My  projec
 ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 ![Jira](https://img.shields.io/badge/jira-%230A0FFF.svg?style=for-the-badge&logo=jira&logoColor=white)
 ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
-
-<!--
-![Microsoft Excel](https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white)
-![Microsoft Outlook](https://img.shields.io/badge/Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white)
--->
 
 
 *Last edit: 4 April. 2024*
