@@ -12,6 +12,7 @@ Please click here [ My portfolio version 2024 *ଘ(੭*ˊᵕˋ)੭* ੈ✩‧₊
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
 ![Bootstrap](https://img.shields.io/badge/bootstrap-%23563D7C.svg?style=for-the-badge&logo=bootstrap&logoColor=white)
 ![SASS](https://img.shields.io/badge/SASS-%23CC6699.svg?style=for-the-badge&logo=SASS&logoColor=white)
+![Tailwind](https://img.shields.io/badge/Tailwind-%2338bdf8.svg?style=for-the-badge&logo=TailwindCSS&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![NodeJS](https://img.shields.io/badge/node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
 ![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
