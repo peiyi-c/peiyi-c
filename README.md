@@ -2,7 +2,7 @@
 <!--
 > 【out of curiosity】  •  原点は好奇心！　¶¶
 -->
-Portfolio Website 1.0 *ଘ(੭*ˊᵕˋ)੭* ੈ✩‧₊˚ [ My recent projects ](https://peiyi-c.github.io/pch-portfolio/#projects) 
+Portfolio Website version 2024 *ଘ(੭*ˊᵕˋ)੭* ੈ✩‧₊˚ [ My  projects ](https://portfolio-ss24.vercel.app/projects) 
 
 ---
 ### Tech Stack 🦓
@@ -30,4 +30,4 @@ Portfolio Website 1.0 *ଘ(੭*ˊᵕˋ)੭* ੈ✩‧₊˚ [ My recent projects 
 -->
 
 
-*Last edit: 29 Jan. 2024*
+*Last edit: 4 April. 2024*
