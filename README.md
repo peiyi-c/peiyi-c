@@ -2,7 +2,7 @@
 <!--
 > 【out of curiosity】  •  原点は好奇心！　¶¶
 -->
-Please click here [ My portfolio version 2024 *ଘ(੭*ˊᵕˋ)੭* ੈ✩‧₊˚  ](https://portfolio-ss24.vercel.app/projects) 
+Please click here to [ My Portfolio version ss2024 *ଘ(੭*ˊᵕˋ)੭* ੈ✩‧₊˚  ](https://portfolio-ss24.vercel.app/projects) 
 
 ---
 ### Tech Stack 🦓
@@ -26,4 +26,4 @@ Please click here [ My portfolio version 2024 *ଘ(੭*ˊᵕˋ)੭* ੈ✩‧₊
 ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
 
 
-*Last edit: 4 April. 2024*
+*Last edit: 16 April. 2024*
