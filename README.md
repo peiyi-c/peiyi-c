@@ -5,7 +5,7 @@
 Please click here to [ My Portfolio version ss2024 *ଘ(੭*ˊᵕˋ)੭* ੈ✩‧₊˚  ](https://portfolio-ss24.vercel.app/projects) 
 
 ---
-### Tech Stack 🦓
+### My Tech Stack and Tools🦓
 
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
 ![PHP](https://img.shields.io/badge/php-%234F5B93.svg?style=for-the-badge&logo=php&logoColor=white)
@@ -26,4 +26,4 @@ Please click here to [ My Portfolio version ss2024 *ଘ(੭*ˊᵕˋ)੭* ੈ✩�
 ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
 
 
-*Last edit: 16 April. 2024*
+*Last edit: 15 May. 2024*
