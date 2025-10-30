@@ -12,7 +12,7 @@
 </p>
 -->
 
-🌱 Currently focused on upskilling to master robust, full-stack solutions.
+🌱 Growing from a frontend focus toward full-stack development.
 
 ---
 ### Core Competencies & Tech Stack ¶¶
