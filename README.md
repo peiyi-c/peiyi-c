@@ -29,6 +29,7 @@
 ![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
 
 ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
+![GraphQL](https://img.shields.io/badge/GraphQL-E10098?style=for-the-badge&logo=graphql&logoColor=white)
 ![Python](https://img.shields.io/badge/python-%23FFD43B.svg?style=for-the-badge&logo=python&logoColor=%233776AB)
 ![Plotly Dash](https://img.shields.io/badge/Plotly_Dash-3F3F3F?style=for-the-badge&logo=plotly&logoColor=white)
 ![PHP](https://img.shields.io/badge/php-%234F5B93.svg?style=for-the-badge&logo=php&logoColor=white)
